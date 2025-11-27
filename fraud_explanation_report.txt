@@ -1,0 +1,33 @@
+
+======================================================================
+FRAUD RISK ANALYSIS REPORT
+======================================================================
+
+Transaction ID: 263020
+Timestamp: 2025-11-27 15:16:43
+
+RISK ASSESSMENT
+---------------
+Fraud Probability: 0.1%
+Risk Level: 🟢 LOW
+Decision: APPROVE
+
+TOP RISK FACTORS
+----------------
+5. V4: decreases fraud risk by 2.442
+11. V10: decreases fraud risk by 0.908
+15. V14: decreases fraud risk by 0.822
+3. V2: decreases fraud risk by 0.758
+12. V11: decreases fraud risk by 0.437
+
+RECOMMENDATION
+--------------
+✅ APPROVE transaction
+   - Low risk, process normally
+
+ACTUAL OUTCOME
+--------------
+Ground Truth: NORMAL ✅
+Model Prediction: NORMAL ✅ CORRECT
+
+======================================================================
